@@ -1,0 +1,6 @@
+{
+  "name": "Movielist",
+  "description": "Companion app for Movielist where users can view available movies and TV shows, preview app features, and download content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
